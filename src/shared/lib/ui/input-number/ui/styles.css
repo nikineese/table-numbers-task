@@ -1,0 +1,16 @@
+.input {
+    padding: 5px;
+    border: none;
+    font-size: 16px;
+    background-color: inherit;
+    border-bottom: 1px solid #40009b;
+    border-radius: 4px;
+    outline: none;
+    color: #40009b;
+}
+.title {
+    color: #40009b;
+    font-size: 18px;
+    padding-bottom: 5px;
+    margin: 0;
+}

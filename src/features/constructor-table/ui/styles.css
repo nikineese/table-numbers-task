@@ -1,0 +1,18 @@
+.constructor-container {
+    width: 400px;
+    height: 600px;
+    background-color: #b7d6ff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    box-shadow: 0 0 13px -3px rgba(0,0,0,0.75);
+    flex-direction: column;
+    gap: 20px;
+}
+.error {
+    color: #e84242;
+}
+.constructor__title {
+    color: #ffffff;
+}
